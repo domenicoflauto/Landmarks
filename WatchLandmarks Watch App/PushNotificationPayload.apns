@@ -7,10 +7,8 @@
         "category": "LandmarkNear",
         "thread-id": "5280"
     },
-
-
+    
     "landmarkIndex": 1,
 
-
-    "Simulator Target Bundle": "com.example.apple-samplecode.Landmarks.watchkitapp"
+    "Simulator Target Bundle": "domenicoflauto.Landmarks.watchkitapp"
 }
