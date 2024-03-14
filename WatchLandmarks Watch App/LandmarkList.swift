@@ -1,8 +1,8 @@
 //
 //  LandmarkList.swift
-//  Landmarks
+//  WatchLandmarks Watch App
 //
-//  Created by Domenico Flauto on 13/03/2024.
+//  Created by Domenico Flauto on 14/03/2024.
 //
 
 import SwiftUI
@@ -34,7 +34,6 @@ struct LandmarkList: View {
             }
             .animation(.default, value: filteredLandmarks)
             .navigationTitle("Landmarks")
-            .frame(minWidth: 300)
         } detail: {
             Text("Select a Landmark")
         }
